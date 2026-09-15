@@ -17,6 +17,11 @@
 
 [时间线(北极旅行)](./Dempster北极行组队与费用纠纷时间线.md)
 
+# 关于"Liu Yanjun"的安省法庭记录
+
+[案件汇总：Liu诉渥太华大学学费退还案](./Ontario_Court_files_Yanjun_Liu/readme.md)
+
+
 # 路见不平，拔刀相助
 
 [发往国家留学基金委CSC的举报信](./CSC举报信.md)
