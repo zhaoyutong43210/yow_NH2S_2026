@@ -54,6 +54,7 @@ Yanjun Liu, 2021年附近来到渥太华攻读硕士学位，2024年，转为硕
 * Yanjun Liu 在RBC的存款就有100K+ $CAD。
 * Yanjun Liu 在被驱离原则哥家后，骚扰警察入住流浪汉的Shelter。入住当天，她穿的“贼富贵”。后她辗转在不同男性家中过夜 (推测)。
 * Yanjun Liu 拥有一套位于 Unit 201 - 180 George St, Ottawa, ON K1N 0G8的房产，并租出去做Air BNB。她声称自己是全款购买。但因出租而违反物业规定。
+* Yanjun Liu 唯一一次付款是开房的房费。
 
   Yanjun Liu位于Unit 201 - 180 George St的公寓被独立验证，是真实的。
   
