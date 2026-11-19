@@ -190,7 +190,7 @@ Yanjun Liu 不同意渥太华大学教务处，因此一纸诉状将母校告上
 
 安省省提名硕博通道（OINP Masters Graduate Stream / PhD Graduate Stream）为例，官方申请指南（Program Guide）的“不符合资格（Ineligibility）”条款中，白纸黑字地明确列出了针对公派奖学金的排斥规定：
 
-申请人如果获得了要求其在完成学业后必须返回原籍国（或加拿大其他省份/地区）服务的助学金、津贴或奖学金（grant, bursary, or scholarship that requires you to return to your home country after the completion of your studies），则不具备申请资格。除非申请人已经履行完毕该回国服务义务，并能提供相关证明，且展现出在安省定居的真实意向，方可申请。
+申请人如果获得了要求其在完成学业后必须返回原籍国服务的助学金、津贴或奖学金（grant, bursary, or scholarship that requires you to return to your home country after the completion of your studies），则不具备申请资格。除非申请人已经履行完毕该回国服务义务，并能提供相关证明，且展现出在安省定居的真实意向，方可申请。
 
 “两年回国服务期”并不是一个只要在海外熬过两年时间就会自动失效的“倒计时”。它是一项必须“在中国境内实际履行完毕”的实质性义务。
 如果受资助人违约滞留在加拿大，即使在海外待了两年、五年甚至更久，只要她既没有回国服务满两年，也没有向CSC正式赔付违约金并拿到结清证明，那么这项合约限制就永远处于未解除状态，她依然无法合规申请加拿大PR。
